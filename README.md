@@ -1,10 +1,5 @@
 # 🐍 Snake Game
 
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)  
-[![Stars](https://img.shields.io/github/stars/pacpac-ux/snake-game.svg?style=social)](https://github.com/pacpac-ux/snake-game/stargazers)  
-[![Forks](https://img.shields.io/github/forks/your-username/snake-game.svg?style=social)](https://github.com/pacpac-ux/snake-game/network/members)  
-[![Issues](https://img.shields.io/github/issues/pacpac-ux/snake-game.svg)](https://github.com/your-username/snake-game/issues)  
-
 A simple yet nostalgic **Snake Game** built with Python.  
 Clone the repo and run it to play right away!
 
@@ -29,7 +24,7 @@ python snake.py
 
 
 📌 Roadmap
-Main menu![Uploading image.png…]()
+Main menu
 
 
 Difficulty levels
@@ -40,4 +35,7 @@ High score saving
 
 ✨ Feel free to fork, play, and contribute!
 
-
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)  
+[![Stars](https://img.shields.io/github/stars/pacpac-ux/snake-game.svg?style=social)](https://github.com/pacpac-ux/snake-game/stargazers)  
+[![Forks](https://img.shields.io/github/forks/pacpac-ux/snake-game.svg?style=social)](https://github.com/pacpac-ux/snake-game/network/members)  
+[![Issues](https://img.shields.io/github/issues/pacpac-ux/snake-game.svg)](https://github.com/pacpac-ux/snake-game/issues)  
