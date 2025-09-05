@@ -19,7 +19,7 @@ Clone the repo and run it to play right away!
 git clone https://github.com/your-username/snake-game.git
 cd snake-game
 python snake.py```
-
+perl
 🖼️ Screenshot
 <img width="596" height="624" alt="image" src="https://github.com/user-attachments/assets/c8935e06-90bb-4a8c-8d8e-c057ae1c817b" />
 
@@ -37,4 +37,4 @@ High score saving
 
 ✨ Feel free to fork, play, and contribute!
 
-perl
+
