@@ -24,14 +24,12 @@ python snake.py
 
 
 📌 Roadmap
-Main menu
 
+- Main menu
+- Difficulty levels
+- Sound effects
+- High score saving
 
-Difficulty levels
-
-Sound effects
-
-High score saving
 
 ✨ Feel free to fork, play, and contribute!
 
